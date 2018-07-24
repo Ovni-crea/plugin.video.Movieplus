@@ -6,39 +6,7 @@
 <externallink>https://raw.githubusercontent.com/djliptv/ElRinconDelLolo/master/ORIGINAL/rincon_lolo.xml</externallink>
 </item>
 <item>
-<title> Playlist Maruxa</title>
-<link>$doregex[makelist4]</link>
-
-
-
-<regex>
-  <name>makelist4</name>
-  <listrepeat><![CDATA[
-        <title>[COLOR skyblue][makelist4.param2][/COLOR]</title>
-        <link>$doregex[makelist]</link>
-		<thumbnail>http://adryanlist.org/adryan/img/series.jpg</thumbnail>
-        ]]></listrepeat>
-<expres>class="name" href="/Maruxa/(.*?)">(.*?)<</expres>
-<page>http://kbagi.com/Maruxa</page>
-</regex>
-
-
-
-<regex>
-  <name>makelist</name>
-  <listrepeat><![CDATA[
-        <title> [makelist.param2]</title>
-        <link>$doregex[getUrl]</link>
-        <thumbnail>/thumbnail>
-]]></listrepeat>
-<expres><![CDATA[class="name[\w\W\s]{0,35}href="(.*?)"[\w\W\s]{0,50}preview">(.*?)<]]></expres>
-<page>http://kbagi.com/Maruxa/[makelist4.param1]/list,1,20</page>
-<cookieJar></cookieJar>
-</regex>
- 
-<regex><name>getUrl</name>
-<expres>$pyFunction:mylib.getvideotitle('<video id="playerPlaceHolder_html5_api" class="vjs-tech" src="(.+?)'></video)
-<page></page>
-<cookieJar></cookieJar>
-<thumbnail>http://adryanlist.org/adryan/img/series.jpg</thumbnail>
+    <title>Maruxa</title>
+    <link>plugin://plugin.video.palantir/?url=http://k-bagi.com/Maruxa</link>
 </item>
+	
