@@ -154,8 +154,7 @@ brutusa2  jules.bb7@gmail.com
 
 <item>
 <title>[COLOR white]WWE NETWORK 24/7 [/COLOR] [COLOR green]LIVE[/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.wlive.tv/tv/WWUpWhubqN20180321/chunklist_w1787791063_tkaGxzZW5kdGltZT0xNTM3NTQ0NTIwJmhsc3N0YXJ0dGltZT0wJmhsc2hhc2g9LTl5bUJTRURSd0R3MC00bnFsYVVEZnphamVGamJiak9NSGJxRFRLTXdKZz0=.m3u8&amp;streamtype=TSDOWNLOADER;name=WWE NETWORK</link>
-<referer>http://www.wlive.tv/embedws.php?player=mobile&live=wwenet&vw=620&vh=490</referer>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hlslive-akc.med2.net.wwe.com/ls01/wwe/LINEAR/master_wired.m3u8&amp;streamtype=TSDOWNLOADER;name=WWE NETWORK</link>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://178.132.6.74:8282/live/ramo/ramo1/3448.ts&amp;streamtype=TSDOWNLOADER;name=WWE NETWORK</link>
 <thumbnail>https://imgur.com/xcEF981.jpg</thumbnail>
 <fanart>https://images.alphacoders.com/515/515183.jpg</fanart>
