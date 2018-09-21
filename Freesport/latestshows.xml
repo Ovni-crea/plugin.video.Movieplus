@@ -1,0 +1,388 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+
+<item> 
+<title>[COLOR white]-===| [COLORorange][B]Shows[/B][/COLOR] |===-[/COLOR]</title>
+<link>http://bossbuilds.club/pluto/wod/latestshows/</link>
+<thumbnail>http://i.imgur.com/1eQ5c3m.png</thumbnail>
+<fanart>http://i.imgur.com/1eQ5c3m.png</fanart>
+</item>
+
+<item> 
+<title>[COLOR red][B]RAW[/B][COLORwhite] | [I]Latest Shows[/I][/COLOR][/COLOR]</title>
+<folder>http://bossbuilds.club/pluto/wod/latestshows/raw.xml</folder>
+<thumbnail>http://i.imgur.com/bgSFKHr.jpg</thumbnail>
+<fanart>http://i.imgur.com/1eQ5c3m.png</fanart>
+</item>
+
+<item> 
+<title>[COLOR dodgerblue][B]SmackDown Live[/B][COLORwhite] | [I]Latest Shows[/I][/COLOR][/COLOR]</title>
+<folder>http://bossbuilds.club/pluto/wod/latestshows/smackdown.xml</folder>
+<thumbnail>http://i.imgur.com/CB5fgbs.jpg</thumbnail>
+<fanart>http://i.imgur.com/1eQ5c3m.png</fanart>
+</item>
+
+<item> 
+<title>[COLOR yellow][B]NXT[/B][COLORwhite] | [I]Latest Shows & TakeOver Pay Per Views[/I][/COLOR][/COLOR]</title>
+<folder>http://bossbuilds.club/pluto/wod/latestshows/nxtmain.xml</folder>
+<thumbnail>http://i.imgur.com/JXukL7l.jpg</thumbnail>
+<fanart>http://i.imgur.com/1eQ5c3m.png</fanart>
+</item>
+
+<item> 
+<title>[COLOR ffa444f0][B]205 Live[/B][COLORwhite] | [I]Latest Shows[/I][/COLOR][/COLOR]</title>
+<folder>http://bossbuilds.club/pluto/wod/latestshows/205live.xml</folder>
+<thumbnail>http://i.imgur.com/WaGZuNV.jpg</thumbnail>
+<fanart>http://i.imgur.com/1eQ5c3m.png</fanart>
+</item>
+
+
+<item> 
+<title>[COLOR white][B]Chronicle[/COLOR] [COLOR red][/B][/COLOR][COLORwhite] | [I]Latest Shows[/I][/COLOR]</title>
+<folder>http://bossbuilds.club/pluto/wod/latestshows/chronicles.xml</folder>
+<thumbnail>https://imgur.com/yjb3Xzs.jpg</thumbnail>
+<fanart>http://i.imgur.com/1eQ5c3m.png</fanart>
+</item>
+
+<item> 
+<title>[COLOR white][B]UK Champs Tournament[/COLOR] [COLOR red][/B][/COLOR][COLORwhite] | [I]Latest Shows[/I][/COLOR]</title>
+<folder>http://bossbuilds.club/pluto/wod/latestshows/ukchamp.xml</folder>
+<thumbnail>https://imgur.com/NHsL2g8.jpg.jpg</thumbnail>
+<fanart>http://i.imgur.com/1eQ5c3m.png</fanart>
+</item>
+
+<item> 
+<title>[COLOR white][B]Miz & Mrs[/COLOR] [COLOR red][/B][/COLOR][COLORwhite] | [I]Latest Shows[/I][/COLOR]</title>
+<folder>http://bossbuilds.club/pluto/wod/latestshows/miznmrs.xml</folder>
+<thumbnail>https://imgur.com/u7TloOL.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/mseFIDMmTQiw1xVGkILO2dczpWM.jpg</fanart>
+</item>
+
+<item> 
+<title>[COLOR white][B]Marquee Matches[/COLOR] [COLOR red][/B][/COLOR][COLORwhite] | [I]Latest Shows[/I][/COLOR]</title>
+<folder>http://bossbuilds.club/pluto/wod/latestshows/marquematch.xml</folder>
+<thumbnail>https://imgur.com/2myCu9g.jpg</thumbnail>
+<fanart>http://i.imgur.com/1eQ5c3m.png</fanart>
+</item>
+
+<item> 
+<title>[COLOR dodgerblue][B]Main[/COLOR] [COLOR red]Event[/B][/COLOR][COLORwhite] | [I]Latest Shows[/I][/COLOR]</title>
+<folder>http://bossbuilds.club/pluto/wod/latestshows/mainevent.xml</folder>
+<thumbnail>http://i.imgur.com/V5QUCwb.jpg</thumbnail>
+<fanart>http://i.imgur.com/1eQ5c3m.png</fanart>
+</item>
+
+<item> 
+<title>[COLOR dodgerblue][B]Mixed Match[/COLOR] [COLOR red]Event[/B][/COLOR][COLORwhite] | [I]Latest Shows[/I][/COLOR]</title>
+<folder>http://bossbuilds.club/pluto/wod/latestshows/mixedmatch.xml</folder>
+<thumbnail>https://imgur.com/3HSBgoK.jpg</thumbnail>
+<fanart>http://i.imgur.com/1eQ5c3m.png</fanart>
+</item>
+
+<item> 
+<title>[COLORsnow][B]Confidential[/B][/COLOR]</title>
+<folder>http://bossbuilds.club/pluto/wod/latestshows/confidential.xml</folder>
+<thumbnail>https://imgur.com/Y5IcfRm.jpg</thumbnail>
+<fanart>http://i.imgur.com/1eQ5c3m.png</fanart>
+</item>
+
+<item> 
+<title>[COLORsnow][B]Photo Shoot[/B][/COLOR]</title>
+<folder>http://bossbuilds.club/pluto/wod/latestshows/photoshoot.xml</folder>
+<thumbnail>https://imgur.com/rsnO6wE.jpg</thumbnail>
+<fanart>http://i.imgur.com/1eQ5c3m.png</fanart>
+</item>
+
+<item> 
+<title>[COLORsnow][B]Vintage Collection[/B][/COLOR]</title>
+<folder>http://bossbuilds.club/pluto/wod/latestshows/vintage.xml</folder>
+<thumbnail>http://i.imgur.com/q3fmIKl.jpg</thumbnail>
+<fanart>http://i.imgur.com/1eQ5c3m.png</fanart>
+</item>
+
+
+<item> 
+<title>[COLOR snow][B]This Week In WWE[/B][/COLOR]</title>
+<folder>http://bossbuilds.club/pluto/wod/latestshows/wweweek.xml</folder>
+<thumbnail>http://i.imgur.com/ChmLTTX.jpg</thumbnail>
+<fanart>http://i.imgur.com/1eQ5c3m.png</fanart>
+</item>
+
+<item> 
+<title>[COLOR darkorchid][B]Cruiserweight Classic[/B][/COLOR]</title>
+<folder>http://bossbuilds.club/pluto/wod/latestshows/cwc.xml</folder>
+<thumbnail>http://i.imgur.com/u3Lkt3z.jpg</thumbnail>
+<fanart>http://i.imgur.com/1eQ5c3m.png</fanart>
+</item>
+
+
+<item> 
+<title>[COLOR aqua][B]Mae Young Classic[/B][/COLOR]</title>
+<folder>http://bossbuilds.club/pluto/wod/latestshows/maeyoungclassic.xml</folder>
+<thumbnail>http://i.imgur.com/5GBKrGe.jpg</thumbnail>
+<fanart>http://i.imgur.com/1eQ5c3m.png</fanart>
+</item>
+
+
+<item> 
+<title>[COLOR dodgerblue][B]Tribute To The Troops[/B][/COLOR]</title>
+<folder>http://bossbuilds.club/pluto/wod/latestshows/tribute.xml</folder>
+<thumbnail>https://i.imgur.com/QJtSXHD.jpg</thumbnail>
+<fanart>http://i.imgur.com/1eQ5c3m.png</fanart>
+</item>
+
+<item> 
+<title>[COLOR gold][B]Hall Of Fame[/B][/COLOR]</title>
+<folder>http://bossbuilds.club/pluto/wod/latestshows/halloffame.xml</folder>
+<thumbnail>https://i.imgur.com/Q7SCv0a.jpg</thumbnail>
+<fanart>http://i.imgur.com/1eQ5c3m.png</fanart>
+</item>
+
+
+<item> 
+<title>[COLOR crimson][B]Random Events[/B] [COLORsnow]| [I]Latest Shows and Events[/COLOR][/COLOR][/I]</title>
+<folder>http://bossbuilds.club/pluto/wod/latestshows/randomevents.xml</folder>
+<thumbnail>https://i.imgur.com/p0X61y6.jpg</thumbnail>
+<fanart>http://i.imgur.com/1eQ5c3m.png</fanart>
+</item>
+
+
+
+<item> 
+<title>[COLOR white]-===| [COLORorange][B]Shows[/B][/COLOR] | [I]Originals[/I] |===-[/COLOR]</title>
+<link>http://bossbuilds.club/pluto/wod/latestshows/</link>
+<thumbnail>http://i.imgur.com/1eQ5c3m.png</thumbnail>
+<fanart>http://i.imgur.com/1eQ5c3m.png</fanart>
+</item>
+
+<item> 
+<title>[COLOR white][B]Bring It To The Table[/B][/COLOR]</title>
+<folder>http://bossbuilds.club/pluto/wod/latestshows/BI2TT.xml</folder>
+<thumbnail>http://i.imgur.com/dwciKBF.jpg</thumbnail>
+<fanart>http://i.imgur.com/1eQ5c3m.png</fanart>
+</item>
+
+<item> 
+<title>[COLOR white][B]Breaking Ground[/B][/COLOR]</title>
+<folder>http://bossbuilds.club/pluto/wod/latestshows/breakinground.xml</folder>
+<thumbnail>https://imgur.com/iHxJMhx.jpg</thumbnail>
+<fanart>http://i.imgur.com/1eQ5c3m.png</fanart>
+</item>
+
+<item> 
+<title>[COLOR white][B]Camp WWE[/B][/COLOR]</title>
+<folder>http://bossbuilds.club/pluto/wod/latestshows/camp.xml</folder>
+<thumbnail>https://i.imgur.com/4UXDIbI.jpg</thumbnail>
+<fanart>http://i.imgur.com/1eQ5c3m.png</fanart>
+</item>
+
+<item> 
+<title>[COLOR white][B]The Edge and Christian Show[/B][/COLOR]</title>
+<folder>http://bossbuilds.club/pluto/wod/latestshows/eandcshow.xml</folder>
+<thumbnail>https://i.imgur.com/jwmC0Yf.jpg</thumbnail>
+<fanart>http://i.imgur.com/1eQ5c3m.png</fanart>
+</item>
+
+<item> 
+<title>[COLOR white][B]First Look[/B][/COLOR]</title>
+<folder>http://bossbuilds.club/pluto/wod/latestshows/firstlook.xml</folder>
+<thumbnail>http://i.imgur.com/8Gwqus4.jpg</thumbnail>
+<fanart>http://i.imgur.com/1eQ5c3m.png</fanart>
+</item>
+
+<item> 
+<title>[COLOR white][B]GWF | Who's Next[/B][/COLOR]</title>
+<folder>http://bossbuilds.club/pluto/wod/latestshows/whosnext.xml</folder>
+<thumbnail>https://imgur.com/viwflLA.jpg</thumbnail>
+<fanart>http://i.imgur.com/1eQ5c3m.png</fanart>
+</item>
+
+<item> 
+<title>[COLOR white][B]Holy Foley[/B][/COLOR]</title>
+<folder>http://bossbuilds.club/pluto/wod/latestshows/holyfoley.xml</folder>
+<thumbnail>http://i.imgur.com/ci5UqbV.jpg</thumbnail>
+<fanart>http://i.imgur.com/1eQ5c3m.png</fanart>
+</item>
+
+<item> 
+<title>[COLOR white][B]Legends House[/B][/COLOR]</title>
+<folder>http://bossbuilds.club/pluto/wod/latestshows/legendshouse.xml</folder>
+<thumbnail>https://i.imgur.com/DHzPF3F.jpg</thumbnail>
+<fanart>http://i.imgur.com/1eQ5c3m.png</fanart>
+</item>
+
+<item> 
+<title>[COLOR white][B]Legends With JBL[/B][/COLOR]</title>
+<folder>http://bossbuilds.club/pluto/wod/latestshows/legjbl.xml</folder>
+<thumbnail>http://bossbuilds.club/pluto/wod/images/legjbl.jpg</thumbnail>
+<fanart>http://i.imgur.com/1eQ5c3m.png</fanart>
+</item>
+
+<item> 
+<title>[COLOR white][B]Monday Night War: WWE vs WCW[/B][/COLOR]</title>
+<folder>http://bossbuilds.club/pluto/wod/latestshows/mondaynightwar.xml</folder>
+<thumbnail>http://i.imgur.com/zfbzK0V.jpg</thumbnail>
+<fanart>http://i.imgur.com/1eQ5c3m.png</fanart>
+</item>
+
+
+<item> 
+<title>[COLOR white][B]Ride Along[/B][/COLOR]</title>
+<folder>http://bossbuilds.club/pluto/wod/latestshows/ridealong.xml</folder>
+<thumbnail>https://i.imgur.com/qJkaubm.jpg</thumbnail>
+<fanart>http://i.imgur.com/1eQ5c3m.png</fanart>
+</item>
+
+<item> 
+<title>[COLOR white][B]Rivalries[/B][/COLOR]</title>
+<folder>http://bossbuilds.club/pluto/wod/latestshows/rivalries.xml</folder>
+<thumbnail>http://bossbuilds.club/pluto/wod/images/rivalries.jpg</thumbnail>
+<fanart>http://i.imgur.com/1eQ5c3m.png</fanart>
+</item>
+
+<item> 
+<title>[COLOR white][B]Something Else to Wrestle with Bruce Prichard[/B][/COLOR]</title>
+<folder>http://bossbuilds.club/pluto/wod/latestshows/SETWW.xml</folder>
+<thumbnail>https://biggoldbeltgroup.com/wp-content/uploads/2018/04/something-else-to-wrestle-with-bruce-prichard-debuts-on-wwe-network.jpg</thumbnail>
+<fanart>http://i.imgur.com/1eQ5c3m.png</fanart>
+</item>
+
+
+<item> 
+<title>[COLOR white][B]Original Specials[/B][/COLOR]</title>
+<folder>http://bossbuilds.club/pluto/wod/latestshows/specials.xml</folder>
+<thumbnail>http://i.imgur.com/hpoGaAj.jpg</thumbnail>
+<fanart>http://i.imgur.com/1eQ5c3m.png</fanart>
+</item>
+
+<item> 
+<title>[COLOR white][B]Stone Cold Podcasts[/B][/COLOR]</title>
+<folder>http://bossbuilds.club/pluto/wod/latestshows/scpodcast.xml</folder>
+<thumbnail>https://i.imgur.com/KFHnmYL.jpg</thumbnail>
+<fanart>http://i.imgur.com/1eQ5c3m.png</fanart>
+</item>
+
+<item> 
+<title>[COLOR white][B]Straight To The Source[/B][/COLOR]</title>
+<folder>http://bossbuilds.club/pluto/wod/latestshows/straighttothesource.xml</folder>
+<thumbnail>https://i.imgur.com/soPo59E.jpg</thumbnail>
+<fanart>http://i.imgur.com/1eQ5c3m.png</fanart>
+</item>
+
+
+
+
+<item> 
+<title>[COLOR white][B]Swerved[/B][/COLOR]</title>
+<folder>http://bossbuilds.club/pluto/wod/latestshows/swerved.xml</folder>
+<thumbnail>https://i.imgur.com/pFTgflE.jpg</thumbnail>
+<fanart>http://i.imgur.com/1eQ5c3m.png</fanart>
+</item>
+
+
+<item> 
+<title>[COLOR white][B]Table For 3[/B][/COLOR]</title>
+<folder>http://bossbuilds.club/pluto/wod/latestshows/table3.xml</folder>
+<thumbnail>http://bossbuilds.club/pluto/wod/images/table3.jpg</thumbnail>
+<fanart>http://i.imgur.com/1eQ5c3m.png</fanart>
+</item>
+
+<item> 
+<title>[COLOR white][B]Tough Enough[/B][/COLOR]</title>
+<folder>http://bossbuilds.club/pluto/wod/latestshows/toughenoughmain.xml</folder>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/1/11/WWE_Tough_Enough_Logo.jpg</thumbnail>
+<fanart>http://i.imgur.com/1eQ5c3m.png</fanart>
+</item>
+
+
+<item> 
+<title>[COLOR white][B]Total Bellas[/B][/COLOR]</title>
+<folder>http://bossbuilds.club/pluto/wod/latestshows/totalbellas.xml</folder>
+<thumbnail>http://i.imgur.com/2bv3FNG.jpg</thumbnail>
+<fanart>http://i.imgur.com/1eQ5c3m.png</fanart>
+</item>
+
+<item> 
+<title>[COLOR white][B]Total Divas[/B][/COLOR]</title>
+<folder>http://bossbuilds.club/pluto/wod/latestshows/totaldivas.xml</folder>
+<thumbnail>http://i.imgur.com/hQVsee4.jpg</thumbnail>
+<fanart>http://i.imgur.com/1eQ5c3m.png</fanart>
+</item>
+
+<item> 
+<title>[COLOR white][B]Unfiltered with Renee Young[/B][/COLOR]</title>
+<folder>http://bossbuilds.club/pluto/wod/latestshows/unfiltered.xml</folder>
+<thumbnail>https://imgur.com/M84f1nT.jpg</thumbnail>
+<fanart>http://i.imgur.com/1eQ5c3m.png</fanart>
+</item>
+
+<item> 
+<title>[COLOR white][B]Undertaker: 25 Phenomenal Years[/B][/COLOR]</title>
+<folder>http://bossbuilds.club/pluto/wod/latestshows/undertaker25py.xml</folder>
+<thumbnail>https://i.imgur.com/55dqD0r.jpg</thumbnail>
+<fanart>http://i.imgur.com/1eQ5c3m.png</fanart>
+</item>
+
+<item> 
+<title>[COLOR white][B]Wrestlemania Rewind[/B][/COLOR]</title>
+<folder>http://bossbuilds.club/pluto/wod/latestshows/wmrewind.xml</folder>
+<thumbnail>http://i.imgur.com/7jWsONb.jpg</thumbnail>
+<fanart>http://i.imgur.com/1eQ5c3m.png</fanart>
+</item>
+
+<item> 
+<title>[COLOR white][B]WWE 24[/B][/COLOR]</title>
+<folder>http://bossbuilds.club/pluto/wod/latestshows/wwe24.xml</folder>
+<thumbnail>http://i.imgur.com/BDwrUDu.jpg</thumbnail>
+<fanart>http://i.imgur.com/1eQ5c3m.png</fanart>
+</item>
+
+<item> 
+<title>[COLOR white][B]WWE 365[/B][/COLOR]</title>
+<folder>http://bossbuilds.club/pluto/wod/latestshows/wwe365.xml</folder>
+<thumbnail>https://i.imgur.com/lwz5tlR.jpg</thumbnail>
+<fanart>http://i.imgur.com/1eQ5c3m.png</fanart>
+</item>
+
+<item> 
+<title>[COLOR white][B]WWE Countdown[/B][/COLOR]</title>
+<folder>http://bossbuilds.club/pluto/wod/latestshows/countdown.xml</folder>
+<thumbnail>https://i.imgur.com/N1Goeqm.jpg</thumbnail>
+<fanart>http://i.imgur.com/1eQ5c3m.png</fanart>
+</item>
+
+<item> 
+<title>[COLOR snow][B]WWE Network Exclusives[/B][/COLOR]</title>
+<folder>http://bossbuilds.club/pluto/wod/latestshows/ukchamp.xml</folder>
+<thumbnail>http://i.imgur.com/lOMy7zx.jpg</thumbnail>
+<fanart>http://i.imgur.com/1eQ5c3m.png</fanart>
+</item>
+
+
+<item> 
+<title>[COLOR white][B]WWE Story Time[/B][/COLOR]</title>
+<folder>http://bossbuilds.club/pluto/wod/latestshows/storytime.xml</folder>
+<thumbnail>https://i.imgur.com/KrqG8OX.jpg</thumbnail>
+<fanart>http://i.imgur.com/1eQ5c3m.png</fanart>
+</item>
+
+<item> 
+<title>[COLOR white]-===| [COLORorange][B]Shows[/B][/COLOR] | [I]Others[/I] |===-[/COLOR]</title>
+<link>http://bossbuilds.club/pluto/wod/latestshows/</link>
+<thumbnail>http://i.imgur.com/1eQ5c3m.png</thumbnail>
+<fanart>http://i.imgur.com/1eQ5c3m.png</fanart>
+</item>
+
+
+<item> 
+<title>[COLOR white][B]Steve Austin's Broken Skull Challenge[/B][/COLOR]</title>
+<folder>http://bossbuilds.club/pluto/wod/latestshows/SABSC.xml</folder>
+<thumbnail>http://bossbuilds.club/pluto/wod/images/SABSC.jpg</thumbnail>
+<fanart>http://i.imgur.com/1eQ5c3m.png</fanart>
+</item>
+
+<item> 
+<title>[COLOR white][B]DDP Yoga[/B][/COLOR]</title>
+<folder>http://bossbuilds.club/pluto/wod/latestshows/ddpyoga.xml</folder>
+<thumbnail>http://i.imgur.com/dpVtSnv.jpg</thumbnail>
+<fanart>http://i.imgur.com/1eQ5c3m.png</fanart>
+</item>
