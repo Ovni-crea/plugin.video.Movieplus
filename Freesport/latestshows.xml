@@ -9,28 +9,28 @@
 
 <item> 
 <title>[COLOR red][B]RAW[/B][COLORwhite] | [I]Latest Shows[/I][/COLOR][/COLOR]</title>
-<folder>http://bossbuilds.club/pluto/wod/latestshows/raw.xml</folder>
+<folder>https://raw.githubusercontent.com/Ovni-crea/plugin.video.Movieplus/master/Freesport/raw.xml</folder>
 <thumbnail>http://i.imgur.com/bgSFKHr.jpg</thumbnail>
 <fanart>http://i.imgur.com/1eQ5c3m.png</fanart>
 </item>
 
 <item> 
 <title>[COLOR dodgerblue][B]SmackDown Live[/B][COLORwhite] | [I]Latest Shows[/I][/COLOR][/COLOR]</title>
-<folder>http://bossbuilds.club/pluto/wod/latestshows/smackdown.xml</folder>
+<folder>https://raw.githubusercontent.com/Ovni-crea/plugin.video.Movieplus/master/Freesport/smackdown.xml</folder>
 <thumbnail>http://i.imgur.com/CB5fgbs.jpg</thumbnail>
 <fanart>http://i.imgur.com/1eQ5c3m.png</fanart>
 </item>
 
 <item> 
 <title>[COLOR yellow][B]NXT[/B][COLORwhite] | [I]Latest Shows & TakeOver Pay Per Views[/I][/COLOR][/COLOR]</title>
-<folder>http://bossbuilds.club/pluto/wod/latestshows/nxtmain.xml</folder>
+<folder>https://raw.githubusercontent.com/Ovni-crea/plugin.video.Movieplus/master/Freesport/nxtmain.xml</folder>
 <thumbnail>http://i.imgur.com/JXukL7l.jpg</thumbnail>
 <fanart>http://i.imgur.com/1eQ5c3m.png</fanart>
 </item>
 
 <item> 
 <title>[COLOR ffa444f0][B]205 Live[/B][COLORwhite] | [I]Latest Shows[/I][/COLOR][/COLOR]</title>
-<folder>http://bossbuilds.club/pluto/wod/latestshows/205live.xml</folder>
+<folder>https://raw.githubusercontent.com/Ovni-crea/plugin.video.Movieplus/master/Freesport/205live.xml</folder>
 <thumbnail>http://i.imgur.com/WaGZuNV.jpg</thumbnail>
 <fanart>http://i.imgur.com/1eQ5c3m.png</fanart>
 </item>
@@ -38,63 +38,63 @@
 
 <item> 
 <title>[COLOR white][B]Chronicle[/COLOR] [COLOR red][/B][/COLOR][COLORwhite] | [I]Latest Shows[/I][/COLOR]</title>
-<folder>http://bossbuilds.club/pluto/wod/latestshows/chronicles.xml</folder>
+<folder>https://raw.githubusercontent.com/Ovni-crea/plugin.video.Movieplus/master/Freesport/chronicles.xml</folder>
 <thumbnail>https://imgur.com/yjb3Xzs.jpg</thumbnail>
 <fanart>http://i.imgur.com/1eQ5c3m.png</fanart>
 </item>
 
 <item> 
 <title>[COLOR white][B]UK Champs Tournament[/COLOR] [COLOR red][/B][/COLOR][COLORwhite] | [I]Latest Shows[/I][/COLOR]</title>
-<folder>http://bossbuilds.club/pluto/wod/latestshows/ukchamp.xml</folder>
+<folder>https://raw.githubusercontent.com/Ovni-crea/plugin.video.Movieplus/master/Freesport/ukchamp.xml</folder>
 <thumbnail>https://imgur.com/NHsL2g8.jpg.jpg</thumbnail>
 <fanart>http://i.imgur.com/1eQ5c3m.png</fanart>
 </item>
 
 <item> 
 <title>[COLOR white][B]Miz & Mrs[/COLOR] [COLOR red][/B][/COLOR][COLORwhite] | [I]Latest Shows[/I][/COLOR]</title>
-<folder>http://bossbuilds.club/pluto/wod/latestshows/miznmrs.xml</folder>
+<folder>https://raw.githubusercontent.com/Ovni-crea/plugin.video.Movieplus/master/Freesport/miznmrs.xml</folder>
 <thumbnail>https://imgur.com/u7TloOL.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/mseFIDMmTQiw1xVGkILO2dczpWM.jpg</fanart>
 </item>
 
 <item> 
 <title>[COLOR white][B]Marquee Matches[/COLOR] [COLOR red][/B][/COLOR][COLORwhite] | [I]Latest Shows[/I][/COLOR]</title>
-<folder>http://bossbuilds.club/pluto/wod/latestshows/marquematch.xml</folder>
+<folder>https://raw.githubusercontent.com/Ovni-crea/plugin.video.Movieplus/master/Freesport/marquematch.xml</folder>
 <thumbnail>https://imgur.com/2myCu9g.jpg</thumbnail>
 <fanart>http://i.imgur.com/1eQ5c3m.png</fanart>
 </item>
 
 <item> 
 <title>[COLOR dodgerblue][B]Main[/COLOR] [COLOR red]Event[/B][/COLOR][COLORwhite] | [I]Latest Shows[/I][/COLOR]</title>
-<folder>http://bossbuilds.club/pluto/wod/latestshows/mainevent.xml</folder>
+<folder>https://raw.githubusercontent.com/Ovni-crea/plugin.video.Movieplus/master/Freesport/mainevent.xml</folder>
 <thumbnail>http://i.imgur.com/V5QUCwb.jpg</thumbnail>
 <fanart>http://i.imgur.com/1eQ5c3m.png</fanart>
 </item>
 
 <item> 
 <title>[COLOR dodgerblue][B]Mixed Match[/COLOR] [COLOR red]Event[/B][/COLOR][COLORwhite] | [I]Latest Shows[/I][/COLOR]</title>
-<folder>http://bossbuilds.club/pluto/wod/latestshows/mixedmatch.xml</folder>
+<folder>https://raw.githubusercontent.com/Ovni-crea/plugin.video.Movieplus/master/Freesport/mixedmatch.xml</folder>
 <thumbnail>https://imgur.com/3HSBgoK.jpg</thumbnail>
 <fanart>http://i.imgur.com/1eQ5c3m.png</fanart>
 </item>
 
 <item> 
 <title>[COLORsnow][B]Confidential[/B][/COLOR]</title>
-<folder>http://bossbuilds.club/pluto/wod/latestshows/confidential.xml</folder>
+<folder>https://raw.githubusercontent.com/Ovni-crea/plugin.video.Movieplus/master/Freesport/confidential.xml</folder>
 <thumbnail>https://imgur.com/Y5IcfRm.jpg</thumbnail>
 <fanart>http://i.imgur.com/1eQ5c3m.png</fanart>
 </item>
 
 <item> 
 <title>[COLORsnow][B]Photo Shoot[/B][/COLOR]</title>
-<folder>http://bossbuilds.club/pluto/wod/latestshows/photoshoot.xml</folder>
+<folder>https://raw.githubusercontent.com/Ovni-crea/plugin.video.Movieplus/master/Freesport/photoshoot.xml</folder>
 <thumbnail>https://imgur.com/rsnO6wE.jpg</thumbnail>
 <fanart>http://i.imgur.com/1eQ5c3m.png</fanart>
 </item>
 
 <item> 
 <title>[COLORsnow][B]Vintage Collection[/B][/COLOR]</title>
-<folder>http://bossbuilds.club/pluto/wod/latestshows/vintage.xml</folder>
+<folder>https://raw.githubusercontent.com/Ovni-crea/plugin.video.Movieplus/master/Freesport/vintage.xml</folder>
 <thumbnail>http://i.imgur.com/q3fmIKl.jpg</thumbnail>
 <fanart>http://i.imgur.com/1eQ5c3m.png</fanart>
 </item>
@@ -102,14 +102,14 @@
 
 <item> 
 <title>[COLOR snow][B]This Week In WWE[/B][/COLOR]</title>
-<folder>http://bossbuilds.club/pluto/wod/latestshows/wweweek.xml</folder>
+<folder>https://raw.githubusercontent.com/Ovni-crea/plugin.video.Movieplus/master/Freesport/wweweek.xml</folder>
 <thumbnail>http://i.imgur.com/ChmLTTX.jpg</thumbnail>
 <fanart>http://i.imgur.com/1eQ5c3m.png</fanart>
 </item>
 
 <item> 
 <title>[COLOR darkorchid][B]Cruiserweight Classic[/B][/COLOR]</title>
-<folder>http://bossbuilds.club/pluto/wod/latestshows/cwc.xml</folder>
+<folder>https://raw.githubusercontent.com/Ovni-crea/plugin.video.Movieplus/master/Freesport/cwc.xml</folder>
 <thumbnail>http://i.imgur.com/u3Lkt3z.jpg</thumbnail>
 <fanart>http://i.imgur.com/1eQ5c3m.png</fanart>
 </item>
@@ -117,7 +117,7 @@
 
 <item> 
 <title>[COLOR aqua][B]Mae Young Classic[/B][/COLOR]</title>
-<folder>http://bossbuilds.club/pluto/wod/latestshows/maeyoungclassic.xml</folder>
+<folder>https://raw.githubusercontent.com/Ovni-crea/plugin.video.Movieplus/master/Freesport/maeyoungclassic.xml</folder>
 <thumbnail>http://i.imgur.com/5GBKrGe.jpg</thumbnail>
 <fanart>http://i.imgur.com/1eQ5c3m.png</fanart>
 </item>
@@ -125,14 +125,14 @@
 
 <item> 
 <title>[COLOR dodgerblue][B]Tribute To The Troops[/B][/COLOR]</title>
-<folder>http://bossbuilds.club/pluto/wod/latestshows/tribute.xml</folder>
+<folder>https://raw.githubusercontent.com/Ovni-crea/plugin.video.Movieplus/master/Freesport/tribute.xml</folder>
 <thumbnail>https://i.imgur.com/QJtSXHD.jpg</thumbnail>
 <fanart>http://i.imgur.com/1eQ5c3m.png</fanart>
 </item>
 
 <item> 
 <title>[COLOR gold][B]Hall Of Fame[/B][/COLOR]</title>
-<folder>http://bossbuilds.club/pluto/wod/latestshows/halloffame.xml</folder>
+<folder>https://raw.githubusercontent.com/Ovni-crea/plugin.video.Movieplus/master/Freesport/halloffame.xml</folder>
 <thumbnail>https://i.imgur.com/Q7SCv0a.jpg</thumbnail>
 <fanart>http://i.imgur.com/1eQ5c3m.png</fanart>
 </item>
@@ -140,7 +140,7 @@
 
 <item> 
 <title>[COLOR crimson][B]Random Events[/B] [COLORsnow]| [I]Latest Shows and Events[/COLOR][/COLOR][/I]</title>
-<folder>http://bossbuilds.club/pluto/wod/latestshows/randomevents.xml</folder>
+<folder>https://raw.githubusercontent.com/Ovni-crea/plugin.video.Movieplus/master/Freesport/randomevents.xml</folder>
 <thumbnail>https://i.imgur.com/p0X61y6.jpg</thumbnail>
 <fanart>http://i.imgur.com/1eQ5c3m.png</fanart>
 </item>
