@@ -4,14 +4,14 @@
 
 <item> 
 <title>[COLOR yellow][B]NXT Takeover[/B][/COLOR]</title>
-<folder>http://bossbuilds.club/pluto/wod/latestshows/nxttakeover.xml</folder>
+<folder>https://raw.githubusercontent.com/Ovni-crea/plugin.video.Movieplus/master/Freesport/nxttakeover.xml</folder>
 <thumbnail>http://i.imgur.com/9HC7yOd.jpg</thumbnail>
 <fanart>http://pbear.ares-project.com/wweondemand/images/nxt.jpg</fanart>
 </item>
 
 <item> 
 <title>[COLOR yellow][B]NXT Shows[/B][/COLOR]</title>
-<folder>http://bossbuilds.club/pluto/wod/latestshows/nxt.xml</folder>
+<folder>https://raw.githubusercontent.com/Ovni-crea/plugin.video.Movieplus/master/Freesport/nxt.xml</folder>
 <thumbnail>http://pbear.ares-project.com/wweondemand/images/nxt.jpg</thumbnail>
 <fanart>http://pbear.ares-project.com/wweondemand/images/nxt.jpg</fanart>
 </item>
