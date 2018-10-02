@@ -13,3 +13,17 @@
 <thumbnail>http://i.imgur.com/hV4vGfb.jpg</thumbnail>
 <fanart>http://i.imgur.com/ChDFza8.jpg</fanart>
 </item>
+
+<item>
+<title>Marvel</title>
+<folder>https://raw.githubusercontent.com/Ovni-crea/plugin.video.Movieplus/master/iptv.xml</folder>
+<thumbnail>http://i.imgur.com/hV4vGfb.jpg</thumbnail>
+<fanart>http://i.imgur.com/ChDFza8.jpg</fanart>
+</item>
+
+<item>
+<title>DC</title>
+<folder>https://raw.githubusercontent.com/Ovni-crea/plugin.video.Movieplus/master/iptv.xml</folder>
+<thumbnail>http://i.imgur.com/hV4vGfb.jpg</thumbnail>
+<fanart>http://i.imgur.com/ChDFza8.jpg</fanart>
+</item>
